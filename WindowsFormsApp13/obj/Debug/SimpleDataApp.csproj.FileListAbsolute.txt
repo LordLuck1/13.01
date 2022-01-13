@@ -1,0 +1,12 @@
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\obj\Debug\SimpleDataApp.csproj.AssemblyReference.cache
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.FillOrCancel.resources
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Navigation.resources
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.NewCustomer.resources
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\obj\Debug\SimpleDataApp.csproj.GenerateResource.cache
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\obj\Debug\SimpleDataApp.csproj.CoreCompileInputs.cache
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\ПК_4\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
